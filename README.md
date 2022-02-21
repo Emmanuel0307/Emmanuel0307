@@ -20,7 +20,8 @@ var information ={
     "C",
     "TypeScript Basic",
     "Angular Basic",
-    "Python Basic"
+    "Python Basic",
+    "Redes Cisco"
   ],
   dataBase: [
     "MySQL",

@@ -1,6 +1,6 @@
-About Me :vulcan_salute: :computer:
+About Me :computer:
 
-Hi, I'm Emmanuel :face_exhaling:
+Hi, I'm Emmanuel :vulcan_salute:
 
 ```typeScript
 var information ={

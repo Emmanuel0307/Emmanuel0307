@@ -8,7 +8,7 @@ var information ={
   years: 25,
   birthday: "28 de Mayo, 1996",
   type: "Masculino",
-  scholarship : "Ingenieria en Sistemas Comptacionales",
+  scholarship : "Ingenieria en Sistemas Computacionales",
   university: "Tecnologico de Estudios Superiores de Ecatepec",
   code: [
     "Java",

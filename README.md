@@ -13,7 +13,6 @@ var information ={
   code: [
     "Java",
     "JavaScript",
-    "C# basic",
     "HTML",
     "CSS",
     "HARBOUR",

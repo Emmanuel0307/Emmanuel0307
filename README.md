@@ -19,7 +19,6 @@ var information ={
     "C",
     "TypeScript Basic",
     "Angular Basic",
-    "Python Basic",
     "Redes Cisco"
   ],
   dataBase: [
